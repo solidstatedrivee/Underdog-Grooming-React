@@ -1,0 +1,7 @@
+@import "../Navbar.css";
+
+.services-container {
+  background: url("../../images/services-background.jpg");
+  background-position: center;
+  background-size: cover;
+}

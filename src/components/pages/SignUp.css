@@ -1,0 +1,7 @@
+@import "../../App.css";
+
+.sign-up-container {
+  background: url("../../images/sign-up-background.jpg");
+  background-position: center;
+  background-size: cover;
+}

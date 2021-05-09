@@ -1,0 +1,7 @@
+@import "../Navbar.css";
+
+.contact-container {
+  background: url("../../images/contact-background.jpg");
+  background-position: center;
+  background-size: cover;
+}
