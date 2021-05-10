@@ -15,7 +15,7 @@ function App() {
       <Router>
         <Navbar />
         <Switch>
-          <Route path='/' component={Home} />
+          <Route path='/Underdog-Grooming-React' component={Home} />
           <Route path='/services' component={Services} />
           <Route path='/about-us' component={AboutUs} />
           <Route path='/contact' component={Contact} />
