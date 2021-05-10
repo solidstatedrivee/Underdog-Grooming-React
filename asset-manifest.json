@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Underdog-Grooming-React/static/css/main.d220449d.chunk.css",
+    "main.js": "/Underdog-Grooming-React/static/js/main.f793f9a9.chunk.js",
+    "main.js.map": "/Underdog-Grooming-React/static/js/main.f793f9a9.chunk.js.map",
+    "runtime-main.js": "/Underdog-Grooming-React/static/js/runtime-main.5c22de18.js",
+    "runtime-main.js.map": "/Underdog-Grooming-React/static/js/runtime-main.5c22de18.js.map",
+    "static/js/2.f1bce030.chunk.js": "/Underdog-Grooming-React/static/js/2.f1bce030.chunk.js",
+    "static/js/2.f1bce030.chunk.js.map": "/Underdog-Grooming-React/static/js/2.f1bce030.chunk.js.map",
+    "index.html": "/Underdog-Grooming-React/index.html",
+    "static/css/main.d220449d.chunk.css.map": "/Underdog-Grooming-React/static/css/main.d220449d.chunk.css.map",
+    "static/js/2.f1bce030.chunk.js.LICENSE.txt": "/Underdog-Grooming-React/static/js/2.f1bce030.chunk.js.LICENSE.txt",
+    "static/media/SignUp.css": "/Underdog-Grooming-React/static/media/sign-up-background.44c2d56b.jpg",
+    "static/media/Sally-4.783e3542.png": "/Underdog-Grooming-React/static/media/Sally-4.783e3542.png",
+    "static/media/Saly-1.b9d83ad9.png": "/Underdog-Grooming-React/static/media/Saly-1.b9d83ad9.png",
+    "static/media/Saly-18.b2dc45f0.png": "/Underdog-Grooming-React/static/media/Saly-18.b2dc45f0.png",
+    "static/media/Saly-22.94a3acfb.png": "/Underdog-Grooming-React/static/media/Saly-22.94a3acfb.png",
+    "static/media/Saly-3.8112a18f.png": "/Underdog-Grooming-React/static/media/Saly-3.8112a18f.png",
+    "static/media/AboutUs.css": "/Underdog-Grooming-React/static/media/about-us-background.491252bf.jpg",
+    "static/media/Contact.css": "/Underdog-Grooming-React/static/media/contact-background.9dbb7959.jpg",
+    "static/media/footer-container-cap.bdaf763a.png": "/Underdog-Grooming-React/static/media/footer-container-cap.bdaf763a.png",
+    "static/media/hero-video-background.559803b6.mp4": "/Underdog-Grooming-React/static/media/hero-video-background.559803b6.mp4",
+    "static/media/Hero.css": "/Underdog-Grooming-React/static/media/herobackgroundoverlay2.22af0259.jpg",
+    "static/media/pinksquiggle.b3f6eb07.png": "/Underdog-Grooming-React/static/media/pinksquiggle.b3f6eb07.png",
+    "static/media/pinksquiggle2.223638ab.png": "/Underdog-Grooming-React/static/media/pinksquiggle2.223638ab.png",
+    "static/media/scene2.5eb42778.png": "/Underdog-Grooming-React/static/media/scene2.5eb42778.png",
+    "static/media/Services.css": "/Underdog-Grooming-React/static/media/services-background.82b8f3d2.jpg",
+    "static/media/underdoglogoweb3.d8b0e865.png": "/Underdog-Grooming-React/static/media/underdoglogoweb3.d8b0e865.png",
+    "static/media/underdogvectorlogo2.bf9300bd.png": "/Underdog-Grooming-React/static/media/underdogvectorlogo2.bf9300bd.png",
+    "static/media/underline.4f17938b.svg": "/Underdog-Grooming-React/static/media/underline.4f17938b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c22de18.js",
+    "static/js/2.f1bce030.chunk.js",
+    "static/css/main.d220449d.chunk.css",
+    "static/js/main.f793f9a9.chunk.js"
+  ]
+}
