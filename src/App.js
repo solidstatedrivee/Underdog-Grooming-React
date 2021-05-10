@@ -15,7 +15,7 @@ function App() {
       <Router>
         <Navbar />
         <Switch>
-          <Route path='https://solidstatedrivee.github.io/Underdog-Grooming-React' exact component={Home} />
+          <Route path='/' exact component={Home} />
           <Route path='/services' component={Services} />
           <Route path='/about-us' component={AboutUs} />
           <Route path='/contact' component={Contact} />
