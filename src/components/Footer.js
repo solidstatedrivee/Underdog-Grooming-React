@@ -12,7 +12,7 @@ export default function Footer() {
             <img src={pinkSquiggle2} alt="decorative" className='pink-squiggle2' />
             <img src={udtextlogo} alt="Underdog Grooming text logo" className='text-logo' />
             <img src={footerContainerCap} className='footer-container-cap'></img>
-            <h2>We love your dog more than you do!</h2>
+            <h2>We love your dog more than you do!!!!</h2>
             <div className="todays-date">Today's date: Mon May 2 2021</div>
             <button className="book-now">Book Now!</button>
             <div className="sitemap-social-container">
