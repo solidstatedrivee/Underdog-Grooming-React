@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Underdog-Grooming-React/static/css/main.d220449d.chunk.css",
-    "main.js": "/Underdog-Grooming-React/static/js/main.f793f9a9.chunk.js",
-    "main.js.map": "/Underdog-Grooming-React/static/js/main.f793f9a9.chunk.js.map",
+    "main.css": "/Underdog-Grooming-React/static/css/main.7246cfba.chunk.css",
+    "main.js": "/Underdog-Grooming-React/static/js/main.f93a7fec.chunk.js",
+    "main.js.map": "/Underdog-Grooming-React/static/js/main.f93a7fec.chunk.js.map",
     "runtime-main.js": "/Underdog-Grooming-React/static/js/runtime-main.5c22de18.js",
     "runtime-main.js.map": "/Underdog-Grooming-React/static/js/runtime-main.5c22de18.js.map",
     "static/js/2.f1bce030.chunk.js": "/Underdog-Grooming-React/static/js/2.f1bce030.chunk.js",
     "static/js/2.f1bce030.chunk.js.map": "/Underdog-Grooming-React/static/js/2.f1bce030.chunk.js.map",
     "index.html": "/Underdog-Grooming-React/index.html",
-    "static/css/main.d220449d.chunk.css.map": "/Underdog-Grooming-React/static/css/main.d220449d.chunk.css.map",
+    "static/css/main.7246cfba.chunk.css.map": "/Underdog-Grooming-React/static/css/main.7246cfba.chunk.css.map",
     "static/js/2.f1bce030.chunk.js.LICENSE.txt": "/Underdog-Grooming-React/static/js/2.f1bce030.chunk.js.LICENSE.txt",
     "static/media/SignUp.css": "/Underdog-Grooming-React/static/media/sign-up-background.44c2d56b.jpg",
     "static/media/Sally-4.783e3542.png": "/Underdog-Grooming-React/static/media/Sally-4.783e3542.png",
@@ -32,7 +32,7 @@
   "entrypoints": [
     "static/js/runtime-main.5c22de18.js",
     "static/js/2.f1bce030.chunk.js",
-    "static/css/main.d220449d.chunk.css",
-    "static/js/main.f793f9a9.chunk.js"
+    "static/css/main.7246cfba.chunk.css",
+    "static/js/main.f93a7fec.chunk.js"
   ]
 }
