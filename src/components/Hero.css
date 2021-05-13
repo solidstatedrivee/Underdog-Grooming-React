@@ -127,7 +127,7 @@
   height: 50px; */
   position: absolute;
   bottom: 25px;
-  right: 23px;
+  right: 43px;
   border-radius: 250px;
   z-index: 50;
 }
@@ -355,5 +355,22 @@
   .menu-icon > span {
     right: 0;
     bottom: 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .hero-container {
+    height: 125vh;
+  }
+  .hero-info > h1 {
+    font-size: 1.5em;
+  }
+
+  .hero-info > p {
+    font-size: 1em;
+    line-height: 1.4;
+  }
+  .hero-social-media {
+    bottom: 75px;
   }
 }

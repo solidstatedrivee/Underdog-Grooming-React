@@ -8,8 +8,11 @@ import Contact from './components/pages/Contact'
 import Services from './components/pages/Services'
 import SignUp from './components/pages/SignUp'
 import Footer from './components/Footer'
+import useScript from './hooks/useScript';
 
 function App() {
+  useScript('/src/scripts/script.js');
+
   return (
     <>
       <Router>
@@ -24,8 +27,11 @@ function App() {
         </Switch>
         <Footer />
       </Router>
+
     </>
+
   );
+
 }
 
 export default App;

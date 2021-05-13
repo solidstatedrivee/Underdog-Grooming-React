@@ -63,6 +63,7 @@
 .btn-with-icon {
   /* border: var(--dev-border); */
   position: relative;
+  background: var(--white);
   /* display: flex; */
 }
 

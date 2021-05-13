@@ -145,3 +145,12 @@
     padding: 25px;
   }
 }
+
+@media only screen and (max-width: 500px) {
+  .cards {
+    padding: 0 15px 300px 15px;
+  }
+  .cards__item {
+    width: 100%;
+  }
+}

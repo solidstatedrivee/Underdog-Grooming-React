@@ -5,6 +5,7 @@ import logo from '../images/underdoglogoweb3.png'
 import scene1 from '../images/Saly-1.png'
 import scene2 from '../images/scene2.png'
 
+
 function Navbar() {
     const [click, setClick] = useState(false);
     const [button, setButton] = useState(true);
@@ -17,11 +18,16 @@ function Navbar() {
     }
     useEffect(() => {
         showButton();
+
     }, [])
     window.addEventListener('resize', showButton);
     const handleClick = () => setClick(!click);
     const closeMobileMenu = () => setClick(false);
-
+    if (click) {
+        document.getElementsByTagName("BODY")[0].style.position = 'fixed';
+    } else {
+        document.getElementsByTagName("BODY")[0].style.position = 'relative';
+    }
 
     return (
         <>

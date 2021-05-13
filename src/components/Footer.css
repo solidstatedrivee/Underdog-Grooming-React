@@ -352,3 +352,24 @@ ul > li:hover {
     right: 35%;
   }
 }
+
+@media only screen and (max-width: 500px) {
+  .footer {
+    padding: 15px;
+  }
+  .footer-container-cap {
+    top: -215px;
+  }
+  .sitemap-social-container {
+    /* flex-direction: column;
+    align-items: center; */
+  }
+  .sitemap-container {
+    margin-left: 0;
+  }
+  .social-container {
+    margin: 0;
+    margin-left: 26px;
+    margin-top: 0;
+  }
+}
